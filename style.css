@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/05/45/89/33/360_F_545893318_6tVQPrdOs6otdf6cvkiZ3yz0MJzYTrUn.jpg");
+    background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+button{
+    margin: 450px;
+    width: 200px;
+    height: 70px;
+    background-color: #739BD0;
+    color: bisque;
+    border-color: bisque;
+    border-radius: 20px;
+    box-shadow: 5px 5px #739BD0;
+}
